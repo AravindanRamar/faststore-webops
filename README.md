@@ -1,2 +1,3 @@
-# faststore-webops
-A store powered by FastStore
+# starter.store
+
+A starter store powered by FastStore!
